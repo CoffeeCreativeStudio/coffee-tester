@@ -3,7 +3,7 @@
 Plugin Name: Coffee Tester
 Plugin URI: https://github.com/CoffeeCreativeStudio/coffee-tester
 Description: Testing github shizzle since 2016
-Version: 1.8.0
+Version: 1.9.0
 Text Domain: coffee-tester
 Author: Frits Steyn
 Author URI: http://www.coffeecreativestudio.co.za
@@ -36,4 +36,4 @@ function coffee_tester_updater_test_init() {
 	}
 
 }
-//some random comment for version 1.8.0
+//some random comment for version 1.9.0
