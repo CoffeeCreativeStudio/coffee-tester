@@ -1,2 +1,2 @@
 # coffee-tester
-~Current Version:1.6~
+~Current Version:1.7~
