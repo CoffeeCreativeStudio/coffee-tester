@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Coffee Tester
-Plugin URI: http://www.coffeecreativestudio.co.za
+Plugin URI: https://github.com/CoffeeCreativeStudio/coffee-tester
 Description: Testing github shizzle since 2016
 Version: 1.5.0
 Text Domain: coffee-tester
