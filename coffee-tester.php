@@ -23,7 +23,7 @@ function coffee_tester_updater_test_init() {
 			'api_url' => 'https://github.com/CoffeeCreativeStudio/coffee-tester',
 			'raw_url' => 'https://github.com/CoffeeCreativeStudio/coffee-tester/master',
 			'github_url' => 'https://github.com/CoffeeCreativeStudio/coffee-tester',
-			'zip_url' => 'https://github.com/CoffeeCreativeStudio/coffee-tester/archive/1.2.0.zip',
+			'zip_url' => 'https://github.com/CoffeeCreativeStudio/coffee-tester/archive/master.zip',
 			'sslverify' => true,
 			'requires' => '3.0',
 			'tested' => '4.5.3',
