@@ -28,7 +28,7 @@ function coffee_tester_updater_test_init() {
 			'requires' => '3.0',
 			'tested' => '4.5.3',
 			'readme' => 'README.md',
-			'access_token' => '',
+			'access_token' => '712158b0ce677e35161dca70e7cbbc1fe465c976',
 		);
 
 		new WP_GitHub_Updater( $config );
