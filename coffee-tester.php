@@ -8,3 +8,7 @@ Text Domain: coffee-tester
 Author: Frits Steyn
 Author URI: http://frits.co.za
 */
+require_once( 'updater.php' );
+if ( is_admin() ) {
+    new BFIGitHubPluginUpdater( __FILE__, 'CoffeeCreativeStudio', "coffee-tester" );
+}
